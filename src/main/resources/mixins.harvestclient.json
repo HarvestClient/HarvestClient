@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "net.harvestclient.mixins.client",
+  "refmap": "mixins.harvestclient.json",
+  "verbose": true,
+  "mixins": [
+    "GuiMainMenuMixin"
+  ]
+}
